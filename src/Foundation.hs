@@ -2,7 +2,7 @@
 {-# LANGUAGE TemplateHaskell   #-}
 {-# LANGUAGE TypeFamilies      #-}
 {-# LANGUAGE ViewPatterns      #-}
-{-# LANGUAGE RecordWildCards      #-}
+{-# LANGUAGE RecordWildCards   #-}
 module Foundation where
 
 import Yesod.Core
